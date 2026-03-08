@@ -1,0 +1,16 @@
+# Core UI Framework
+
+streamlit>=1.30.0
+
+# Data handling (optional but good practice)
+
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Text processing utilities
+
+nltk>=3.8.1
+
+# Optional: progress bars during indexing
+
+tqdm>=4.66.0
